@@ -6,7 +6,7 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, <br/> and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
 
- <img src="https://img.shields.io/badge/Languages- Javascript | Node | React -green.svg" alt="Kazi Md Khorshed Alam's languages" />
+ <img src="https://img.shields.io/badge/Languages-Mongo| Express | Javascript | Node | React | Wordpress -blue.svg" alt="Kazi Md Khorshed Alam's languages" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
