@@ -43,7 +43,7 @@
 
 - 📄 Know about my experiences [my experiences](https://himeldev.com/)
 
-- ⚡ Fun fact **I think I'm funny, I'm Chandler in my friend circle**
+- ⚡ Fun fact **I think I'm funny, I'm Chandler in my circle**
 
 <br>
 <h3 align="left">Connect with me:</h3>
